@@ -1,4 +1,4 @@
-Fraud Detection in Financial Transactions
+## Fraud Detection in Financial Transactions
 Project Overview
 
 This project focuses on detecting fraudulent financial transactions using machine learning. The objective is to identify high-risk transactions by analyzing transaction behavior, user activity, and contextual features, while handling strong class imbalance and ensuring model interpretability. The final solution delivers a robust, deployment-ready fraud detection model supported by explainable insights.
